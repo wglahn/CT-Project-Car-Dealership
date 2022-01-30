@@ -7,4 +7,4 @@ The following elements of this project were created jointly by **David Power** &
 1. ERD Model
 2. SQL for Table Creation
 3. SQL for Table Population
-4. Stored Function for Returning Total Profit for the All Time
+4. Stored Functions for Returning Total Profit for Sales & Service.
